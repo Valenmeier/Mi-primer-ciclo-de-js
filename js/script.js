@@ -14,3 +14,4 @@ while (condicion) {
 for(let i= 1;i <= repetir; i++) {
     console.log (`${i} Hola`)
 }
+console.log(`ciclo finalizado, tenga un buen dia`);
